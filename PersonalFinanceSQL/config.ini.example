@@ -1,0 +1,3 @@
+[sqlserver]
+; Example for SQL Server Express on this PC. Change server/instance and database as needed.
+connection_string = DRIVER={ODBC Driver 18 for SQL Server};SERVER=localhost\SQLEXPRESS;DATABASE=PersonalFinance;Trusted_Connection=yes;TrustServerCertificate=yes;

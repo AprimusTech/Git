@@ -1,0 +1,30 @@
+{
+  "919711977612": {
+    "name": "Poonam",
+    "enabled": true,
+    "auto_reply": true,
+    "style": "Friendly, concise Hinglish",
+    "instructions": "Respond politely. Never make financial promises or share sensitive information."
+  },
+  "918130147882": {
+    "name": "AI",
+    "enabled": true,
+    "auto_reply": true,
+    "style": "Friendly, concise Hinglish",
+    "instructions": "Respond politely. Never make financial promises or share sensitive information."
+  },
+  "918527487488": {
+    "name": "Bhupendra",
+    "enabled": true,
+    "auto_reply": true,
+    "style": "Friendly, concise Hinglish",
+    "instructions": "Respond politely. Never make financial promises or share sensitive information."
+  },
+  "919666679090": {
+    "name": "Gaurav Persistent Dixit",
+    "enabled": true,
+    "auto_reply": true,
+    "style": "Natural Hinglish, short and friendly",
+    "instructions": ""
+  }
+}
